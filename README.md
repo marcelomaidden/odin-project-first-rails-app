@@ -1,24 +1,46 @@
-# README
+# The Odin Project First Rails APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# A project made in Rails that creates a basic Rails app
 
-Things you may want to cover:
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby
+- Rails
 
-* Configuration
+## Getting started
 
-* Database creation
+In order to run the project locally clone the repository 
+    
+    git clone git@github.com:marcelomaidden/odin-project-first-rails-app.git
 
-* Database initialization
+and run the commands bellow
 
-* How to run the test suite
+    rails db:migrate 
 
-* Services (job queues, cache servers, search engines, etc.)
+    rails server
 
-* Deployment instructions
+## Authors
 
-* ...
+**Marcelo Araújo**
+
+- GitHub: [@marcelomaidden](https://github.com/marcelomaidden)
+- Twitter: [@marcelomaidden](https://twitter.com/marcelomaidden)
+- LinkedIn: [Marcelo Fernandes de Araújo](https://www.linkedin.com/in/marcelo-fernandes-de-ara%C3%BAjo-56700a171/)
+
+
+## Acknowledgements
+- Ruby creators
+- Rails creators
+
+##  Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## License
+
+This project is [MIT](./LICENSE) licensed.
